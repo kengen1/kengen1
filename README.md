@@ -2,24 +2,26 @@
 
 
 <div align="center">
-  <img src="https://media.tenor.com/uiWSnK1MQq0AAAAj/dragonite-pokemon.gif" width="80px" style="float: left; margin-right: 10px;" alt="Dragonite Gif">
-  <h1 style="display: inline-block;">Hi there 👋, I'm Keegan</h1>
-  <img src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif" width="80px" style="float: right; margin-left: 10px;" alt="Snorlax Gif">
+  <div>
+    <img src="https://media.tenor.com/uiWSnK1MQq0AAAAj/dragonite-pokemon.gif" width="80px" alt="Dragonite Gif" style="margin-right: 10px;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQycG5pNGwzcDRjMGdzaTJ0eXFpZjF4bG9hYXo2ZWV0MGFmdzd6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GYB9dW0icvBg4/200w.webp" width="80px" alt="Snorlax Gif" style="margin: 0 10px;">
+    <img src="https://64.media.tumblr.com/4ad9aceb84272026fdf2a62b54188bac/f477a949938a155a-14/s1280x1920/f2cf9a6e1a6413cda10d8a5f313ed544dfbfed0c.gif" width="60px" alt="Pikachu Gif" style="margin-left: 10px;">
+  </div>
+</div>
+<br>
+<div align="center">
+    <h1> Hi there 👋, I'm Keegan </h1>
 </div>
 
-<br>
-
 ## 💫 About Me:
-👨‍💻 I'm Keegan, a recent WSU graduate and Backend Engineer at Cochlear.<br>🚀 Passionate about building technology that makes a difference in people's lives.<br>🌱 Always looking to learn and grow.
-
-<br>
+👨‍💻 I'm Keegan, a recent WSU graduate and Software Engineer at Cochlear.<br>
+🚀 Passionate about building technology that makes a difference in people's lives.<br>
+🌱 Always looking to learn and grow.
 
 ## 🛠 What I'm Currently Working On:
 - Desktop application development in **C#**
 - Microservice development in the **cloud**
 - Building a portfolio website in my free time
-
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keegan-hidson/)
