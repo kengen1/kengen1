@@ -19,13 +19,13 @@
 
 ### 🛠 What I'm Currently Working On:
 - Desktop application development in **C#**
-- Microservice development in the **cloud**
+- Microservices and cloud infrastructure with Node.JS and TypeScript
 - Building a portfolio website in my free time
 
 ### 🔍 What I'm Interested in Learning:
 - Mobile development
 - Firmware engineering
-- Real-world applications of spatial computing
+- Spatial computing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keegan-hidson/)
