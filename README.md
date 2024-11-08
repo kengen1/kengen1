@@ -19,7 +19,7 @@
 
 ### 🛠 What I'm Currently Working On:
 - Desktop application development in **C#**
-- Microservices and cloud infrastructure with Node.JS and TypeScript
+- Microservices and cloud infrastructure with **Node.JS** and **TypeScript**
 - Building a portfolio website in my free time
 
 ### 🔍 What I'm Interested in Learning:
