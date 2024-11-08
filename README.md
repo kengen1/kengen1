@@ -10,15 +10,14 @@
 </div>
 <br>
 <div align="center">
-    <h1> Hi there 👋, I'm Keegan </h1>
+    <h1> Hi there, I'm Keegan 👋 </h1>
 </div>
 
 ## 💫 About Me:
-👨‍💻 I'm Keegan, a recent WSU graduate and Software Engineer at Cochlear.<br>
-🚀 Passionate about building technology that makes a difference in people's lives.<br>
-🌱 Always looking to learn and grow.
+👨‍💻 I'm a Software Engineer from Sydney, with a focus on backend and cloud development.  
+🦻 Currently working at **Cochlear**, building software for implantable hearing solutions.  
 
-## 🛠 What I'm Currently Working On:
+### 🛠 What I'm Currently Working On:
 - Desktop application development in **C#**
 - Microservice development in the **cloud**
 - Building a portfolio website in my free time
