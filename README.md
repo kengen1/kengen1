@@ -3,9 +3,9 @@
 
 <div align="center">
   <div>
-    <img src="https://media.tenor.com/uiWSnK1MQq0AAAAj/dragonite-pokemon.gif" width="80px" alt="Dragonite Gif" style="margin-right: 10px;">
+    <img src="https://media.tenor.com/uiWSnK1MQq0AAAAj/dragonite-pokemon.gif" width="80px" alt="Dragonite Gif" style="margin-right: 30px;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQycG5pNGwzcDRjMGdzaTJ0eXFpZjF4bG9hYXo2ZWV0MGFmdzd6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GYB9dW0icvBg4/200w.webp" width="80px" alt="Snorlax Gif" style="margin: 0 10px;">
-    <img src="https://64.media.tumblr.com/4ad9aceb84272026fdf2a62b54188bac/f477a949938a155a-14/s1280x1920/f2cf9a6e1a6413cda10d8a5f313ed544dfbfed0c.gif" width="60px" alt="Pikachu Gif" style="margin-left: 10px;">
+    <img src="https://64.media.tumblr.com/4ad9aceb84272026fdf2a62b54188bac/f477a949938a155a-14/s1280x1920/f2cf9a6e1a6413cda10d8a5f313ed544dfbfed0c.gif" width="60px" alt="Bulbasaur Gif" style="margin-left: 30px;">
   </div>
 </div>
 <br>
@@ -22,6 +22,11 @@
 - Desktop application development in **C#**
 - Microservice development in the **cloud**
 - Building a portfolio website in my free time
+
+### 🔍 What I'm Interested in Learning:
+- Mobile development
+- Firmware engineering
+- Real-world applications of spatial computing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keegan-hidson/)
