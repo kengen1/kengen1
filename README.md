@@ -1,23 +1,30 @@
 [![](https://visitcount.itsvg.in/api?id=kengen1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Hi there 👋, I'm Keegan
+
+<div align="center">
+  <img src="https://media.tenor.com/uiWSnK1MQq0AAAAj/dragonite-pokemon.gif" width="80px" style="float: left; margin-right: 10px;" alt="Dragonite Gif">
+  <h1 style="display: inline-block;">Hi there 👋, I'm Keegan</h1>
+  <img src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif" width="80px" style="float: right; margin-left: 10px;" alt="Snorlax Gif">
+</div>
+
+<br>
 
 ## 💫 About Me:
-👨‍💻 I'm Keegan, a recent WSU graduate and Software Engineer at Cochlear.<br>🚀 Passionate about building technology that makes a difference in people's lives.<br>🌱 Always looking to learn and grow.
+👨‍💻 I'm Keegan, a recent WSU graduate and Backend Engineer at Cochlear.<br>🚀 Passionate about building technology that makes a difference in people's lives.<br>🌱 Always looking to learn and grow.
+
+<br>
 
 ## 🛠 What I'm Currently Working On:
 - Desktop application development in **C#**
 - Microservice development in the **cloud**
 - Building a portfolio website in my free time
 
+<br>
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keegan-hidson/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keeganhidson00@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23D3DBD3?.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keegan-hidson/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keeganhidson00@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23D3D3D3.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <br>
 
