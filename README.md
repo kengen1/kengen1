@@ -5,15 +5,14 @@
 - 👨‍💻 I'm a Software Engineer from Sydney.
 - 🦻 Currently working at **Cochlear**, building software for implantable hearing solutions.  
 
-## 🛠 What I'm Currently Working On:
-- iOS development with Swift
-- BLE (Bluetooth Low Energy)
-- Recombine / Redux
+  ## 🛠 What I'm Currently Learning:
+  - iOS development with Swift
+  - BLE (Bluetooth Low Energy)
+  - Recombine / Redux
 
-## 🌐 If You’d Like to Learn More About Me:
-- 🏗 [Portfolio website](https://kengen.dev)
-- 🌻 [Digital garden / blog](https://digital-garden.kengen.dev)
-
+  ## 🌐 If You’d Like to Learn More About Me:
+  - 🏗 [Portfolio website](https://kengen.dev)
+  - 🌻 [Digital garden / blog](https://digital-garden.kengen.dev)
 
 # <img src="https://media.tenor.com/uiWSnK1MQq0AAAAj/dragonite-pokemon.gif" width="50px" alt="Dragonite Gif" style="vertical-align: bottom;"> GitHub Stats:  [![](https://visitcount.itsvg.in/api?id=kengen1&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="left">
