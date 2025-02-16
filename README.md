@@ -1,9 +1,6 @@
 # Hi there 👋, I'm Keegan
 
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQycG5pNGwzcDRjMGdzaTJ0eXFpZjF4bG9hYXo2ZWV0MGFmdzd6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GYB9dW0icvBg4/200w.webp" width="40px" alt="Snorlax Gif" style="vertical-align: bottom;">  About Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keegan-hidson/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keeganhidson00@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FFFFFF?.svg?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 👨‍💻 I'm a Software Engineer from Sydney.
 - 🦻 Currently working at **Cochlear**, building software for implantable hearing solutions.  
